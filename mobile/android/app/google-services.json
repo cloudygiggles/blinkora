@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221370135226",
+    "project_id": "blinkora-8bded",
+    "storage_bucket": "blinkora-8bded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221370135226:android:ff4a9ef9f5605693a80883",
+        "android_client_info": {
+          "package_name": "com.mobile.blinkora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7quvYsMikJV3HQgMUYR-zj5qEZ4uajgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
